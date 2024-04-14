@@ -1,7 +1,6 @@
 # PasswordGenratorReactNative
 
 ---
----
 
 **Password Generator React Native**
 
@@ -21,3 +20,8 @@ A simple mobile application built with React Native for generating secure passwo
 
 ---
 
+## Demo
+
+Check out a short demo of the Password Generator React Native app on YouTube:
+
+[![Password Generator React Native Demo](https://img.youtube.com/vi/POlw3EQQyEk/0.jpg)](https://youtube.com/shorts/POlw3EQQyEk)
